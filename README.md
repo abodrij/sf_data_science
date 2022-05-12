@@ -11,4 +11,4 @@
 * [Проект 7. __________________](https://github.com/abodrij/sf_data_science/tree/main)
 
 ## Практические задания по темам
-* [ PYTHON-13. Визуализация данных .](https://github.com/abodrij/sf_data_science/tree/main)
+* [ PYTHON-13. Визуализация данных .](https://github.com/abodrij/sf_data_science/tree/main/PY_13_work)
