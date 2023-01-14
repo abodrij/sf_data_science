@@ -1,4 +1,4 @@
-# My data science projects
+# Мои проекты data science
 
 ## Проекты
 * [Проект 0. Игра: Угадай число](https://github.com/abodrij/sf_data_science/tree/main/Project_0)
