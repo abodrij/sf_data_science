@@ -10,3 +10,5 @@ Project_1/data/dst-3.0_16_1_hh_database.csv
 requirements.txt
 # настройка рабочей среды
 IDE.code-workspace
+# текущая рабочая директория
+!DST-101-Modul\SQL_ PRACTICE\
