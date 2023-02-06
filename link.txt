@@ -1,1 +1,8 @@
 ## Exchenge b/w 7770 & 5590
+
+скачать PDF по ML-1
+
+Курс Блок 4. Введение в машинное обучение ML-1. Теория машинного обучения 6. Процесс разработки
+конспект в большую тетрадь
+
+https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DST-3.0+28FEB2021/courseware/ca86f3a4e6d746b8aa4908feb21b7061/2f1cb730f6ef4cd79d9915061bbb8a0b/6?activate_block_id=block-v1%3ASkillFactory%2BDST-3.0%2B28FEB2021%2Btype%40vertical%2Bblock%407b1ebdb25d9741fa94fb85242fe11476
