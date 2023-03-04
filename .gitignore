@@ -4,8 +4,9 @@
 DST-101-Modul
 # игнорируем все папки с кешем и их содержимым
 **/__pycache__/
-# файл данных большого объёма
+# файлы данных большого объёма
 Project_1/data/dst-3.0_16_1_hh_database.csv
+Project_3/data/hotels.csv
 # служебный файл
 requirements.txt
 # настройка рабочей среды
