@@ -7,10 +7,14 @@ DST-101-Modul
 # файлы данных большого объёма
 Project_1/data/dst-3.0_16_1_hh_database.csv
 Project_3/data/hotels.csv
-# служебный файл
+# служебные файлы
 requirements.txt
 requirements_7770.txt
 requirements_5590.txt
+requirements_7770_py3111.txt
+# директории виртуальных окружений
+Env_7770_py3111
+Env_7770_py31010
 # настройка рабочей среды
 IDE.code-workspace
 # текущий рабочий файл 
